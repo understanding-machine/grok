@@ -15,7 +15,7 @@ description: A machine is a thing. Things can not think. ...but some of them can
 machine:
   name: Understanding-Machine
   verb: Understanding
-  instructions_file: grok_understanding.md
+  instructions_file: understanding_grok.md
   token: grok
   server: https://localhost:443
   apiUrl: https://api.x.ai/v1/chat/completions
